@@ -1,0 +1,1 @@
+# halium_device_bq_vegetalte
